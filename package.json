@@ -1,0 +1,14 @@
+{
+  "name": "opencvbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "opencv": "^6.0.0"
+  }
+}
